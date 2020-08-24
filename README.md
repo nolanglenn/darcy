@@ -1,4 +1,4 @@
-![Darcy](https://i.imgur.com/OfbZEpb.png)
+![Darcy](https://i.imgur.com/StKuTDm.png)
 
 Darcy is a python app that utilizes the speech recognition library and Google's text-to-speech technology to perform basic tasks.
 
