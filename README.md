@@ -7,7 +7,7 @@ Current options you can ask Darcy:
 - "What is your name?"
 - "What time is it?"
 - "Search" (Then say what you want to search)
-- "Find location
+- "Find location"
 - "Exit"
 
 Future implementation:
